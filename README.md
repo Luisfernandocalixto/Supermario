@@ -1,0 +1,2 @@
+-Libreria PasherJS 
+-Creditos Midudev https://youtu.be/kPgDqdCdjfE?si=B3-MSYSZv2c334Gk
